@@ -1,13 +1,11 @@
-title: Saurabh Dugdhe
+title:  <p align="center"> Saurabh Dugdhe </p>
 logo: /assets/img/saurabh.png
 
 description: 
-<p align="center">
-<a href="/assets/pdf/resume.pdf">Resume</a> 
-<a href="https://www.linkedin.com/in/saurabhdugdhe/">LinkedIn</a> |
-<a href="https://github.com/saurabhdugdhe">GitHub</a>
-
-show_downloads: true
-google_analytics:
+  <p align="center">
+  <a href="/assets/pdf/resume.pdf">Resume</a> 
+  <a href="https://www.linkedin.com/in/saurabhdugdhe/">LinkedIn</a> |
+  <a href="https://github.com/saurabhdugdhe">GitHub</a>
+  </p>
 
 theme: jekyll-theme-minimal
